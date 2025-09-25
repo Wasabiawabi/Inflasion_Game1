@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCFA56-88A6-DB1B-2850-9128AE1E6082}|Assembly-CSharp.csproj|c:\\users\\suzuk\\documents\\github\\my-3rd-game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\assets\\scripts\\upgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCFA56-88A6-DB1B-2850-9128AE1E6082}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\upgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCFA56-88A6-DB1B-2850-9128AE1E6082}|Assembly-CSharp.csproj|C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\assets\\scripts\\shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCFA56-88A6-DB1B-2850-9128AE1E6082}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCFA56-88A6-DB1B-2850-9128AE1E6082}|Assembly-CSharp.csproj|C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\assets\\scripts\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCFA56-88A6-DB1B-2850-9128AE1E6082}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCFA56-88A6-DB1B-2850-9128AE1E6082}|Assembly-CSharp.csproj|C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\assets\\scripts\\enemystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCFA56-88A6-DB1B-2850-9128AE1E6082}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCFA56-88A6-DB1B-2850-9128AE1E6082}|Assembly-CSharp.csproj|C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\assets\\scripts\\textchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCFA56-88A6-DB1B-2850-9128AE1E6082}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\textchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCFA56-88A6-DB1B-2850-9128AE1E6082}|Assembly-CSharp.csproj|C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\assets\\scripts\\moneymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCFA56-88A6-DB1B-2850-9128AE1E6082}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moneymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCFA56-88A6-DB1B-2850-9128AE1E6082}|Assembly-CSharp.csproj|C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\assets\\scripts\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCFA56-88A6-DB1B-2850-9128AE1E6082}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCFA56-88A6-DB1B-2850-9128AE1E6082}|Assembly-CSharp.csproj|C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\assets\\scripts\\enemyhpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCFA56-88A6-DB1B-2850-9128AE1E6082}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyhpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCFA56-88A6-DB1B-2850-9128AE1E6082}|Assembly-CSharp.csproj|C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\assets\\scripts\\enemylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCFA56-88A6-DB1B-2850-9128AE1E6082}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Upgrade.cs",
+              "DocumentMoniker": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\Assets\\Scripts\\Upgrade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Upgrade.cs",
+              "ToolTip": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\Assets\\Scripts\\Upgrade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Upgrade.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAwIkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T11:50:54.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyStatus.cs",
+              "DocumentMoniker": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\Assets\\Scripts\\EnemyStatus.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyStatus.cs",
+              "ToolTip": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\Assets\\Scripts\\EnemyStatus.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T11:25:08.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyLevel.cs",
+              "DocumentMoniker": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\Assets\\Scripts\\EnemyLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyLevel.cs",
+              "ToolTip": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\Assets\\Scripts\\EnemyLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyLevel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:59:02.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shooting.cs",
+              "DocumentMoniker": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\Assets\\Scripts\\Shooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shooting.cs",
+              "ToolTip": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\Assets\\Scripts\\Shooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shooting.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:34:57.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextChanger.cs",
+              "DocumentMoniker": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\Assets\\Scripts\\TextChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TextChanger.cs",
+              "ToolTip": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\Assets\\Scripts\\TextChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TextChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:23:59.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoneyManager.cs",
+              "DocumentMoniker": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\Assets\\Scripts\\MoneyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoneyManager.cs",
+              "ToolTip": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\Assets\\Scripts\\MoneyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoneyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:46:43.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\Assets\\Scripts\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyManager.cs",
+              "ToolTip": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\Assets\\Scripts\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:38:31.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyHPManager.cs",
+              "DocumentMoniker": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\Assets\\Scripts\\EnemyHPManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyHPManager.cs",
+              "ToolTip": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\Assets\\Scripts\\EnemyHPManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyHPManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:01:20.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\Assets\\Scripts\\Move.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Move.cs",
+              "ToolTip": "C:\\Users\\suzuk\\Documents\\GitHub\\My-3rd-Game\\\u30B7\u30E5\u30FC\u30C6\u30A3\u30F3\u30B0\u30B2\u30FC\u30E01\\Assets\\Scripts\\Move.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Move.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:22:59.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
